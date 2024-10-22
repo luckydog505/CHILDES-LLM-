@@ -1,0 +1,17 @@
+# Ignore virtual environments
+venv/
+env/
+virtualenv/
+childes/   # Add your virtual environment folder name here if different
+
+# Common Python exclusions
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
