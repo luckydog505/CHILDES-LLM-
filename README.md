@@ -1,2 +1,2 @@
-# CHILDES-LLM-
-A LLM built for a linguistics project primarily in python
+# CHILDES-EXTRACTOR
+A parser/classfier built for a linguistics project primarily in python
